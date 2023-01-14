@@ -1,0 +1,801 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		270D7705295F2E570076833B /* o2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D76F5295F2E570076833B /* o2.jpg */; };
+		270D7706295F2E570076833B /* o13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D76F6295F2E570076833B /* o13.jpg */; };
+		270D7707295F2E570076833B /* o14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D76F7295F2E570076833B /* o14.jpg */; };
+		270D7708295F2E570076833B /* o3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D76F8295F2E570076833B /* o3.jpg */; };
+		270D7709295F2E570076833B /* o11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D76F9295F2E570076833B /* o11.jpg */; };
+		270D770A295F2E570076833B /* o12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D76FA295F2E570076833B /* o12.jpg */; };
+		270D770B295F2E570076833B /* o9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D76FB295F2E570076833B /* o9.jpg */; };
+		270D770C295F2E570076833B /* o10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D76FC295F2E570076833B /* o10.jpg */; };
+		270D770D295F2E570076833B /* o4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D76FD295F2E570076833B /* o4.jpg */; };
+		270D770E295F2E570076833B /* o5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D76FE295F2E570076833B /* o5.jpg */; };
+		270D770F295F2E570076833B /* o8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D76FF295F2E570076833B /* o8.jpg */; };
+		270D7710295F2E570076833B /* o1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7700295F2E570076833B /* o1.jpg */; };
+		270D7711295F2E570076833B /* o16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7701295F2E570076833B /* o16.jpg */; };
+		270D7712295F2E570076833B /* o15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7702295F2E570076833B /* o15.jpg */; };
+		270D7713295F2E570076833B /* o6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7703295F2E570076833B /* o6.jpg */; };
+		270D7714295F2E570076833B /* o7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7704295F2E570076833B /* o7.jpg */; };
+		270D7716295F3A850076833B /* IMG_1354.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7715295F3A850076833B /* IMG_1354.jpg */; };
+		270D7718295F3BBC0076833B /* IMG_1353.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7717295F3BBC0076833B /* IMG_1353.jpg */; };
+		270D771A295F3FC50076833B /* ViewController_first.swift in Sources */ = {isa = PBXBuildFile; fileRef = 270D7719295F3FC50076833B /* ViewController_first.swift */; };
+		270D771C295F4C930076833B /* ViewControllerSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 270D771B295F4C930076833B /* ViewControllerSearch.swift */; };
+		270D771E295F4F990076833B /* magnifyingglass.png in Resources */ = {isa = PBXBuildFile; fileRef = 270D771D295F4F990076833B /* magnifyingglass.png */; };
+		270D7722295F61FF0076833B /* IMG_1358.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D771F295F61FE0076833B /* IMG_1358.jpg */; };
+		270D7723295F61FF0076833B /* IMG_1359.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7720295F61FE0076833B /* IMG_1359.jpg */; };
+		270D7724295F61FF0076833B /* IMG_1357.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7721295F61FF0076833B /* IMG_1357.jpg */; };
+		270D7727295F677E0076833B /* IMG_1360 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7725295F677E0076833B /* IMG_1360 2.jpg */; };
+		270D7728295F677E0076833B /* IMG_1360.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7726295F677E0076833B /* IMG_1360.jpg */; };
+		270D772A295F6BF00076833B /* ViewController_3_new.swift in Sources */ = {isa = PBXBuildFile; fileRef = 270D7729295F6BF00076833B /* ViewController_3_new.swift */; };
+		270D7730295F74880076833B /* NewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 270D772F295F74880076833B /* NewTableViewCell.swift */; };
+		270D7732295F7ED20076833B /* ViewControlllerDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 270D7731295F7ED20076833B /* ViewControlllerDetail.swift */; };
+		270D773A295F94C80076833B /* oo5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7733295F94C80076833B /* oo5.jpg */; };
+		270D773B295F94C80076833B /* oo3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7734295F94C80076833B /* oo3.jpg */; };
+		270D773C295F94C80076833B /* oo1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7735295F94C80076833B /* oo1.jpg */; };
+		270D773D295F94C80076833B /* oo2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7736295F94C80076833B /* oo2.jpg */; };
+		270D773E295F94C80076833B /* oo6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7737295F94C80076833B /* oo6.jpg */; };
+		270D773F295F94C80076833B /* oo4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7738295F94C80076833B /* oo4.jpg */; };
+		270D7740295F94C80076833B /* oo7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 270D7739295F94C80076833B /* oo7.jpg */; };
+		27591685295E227800325A84 /* starbucks_main.png in Resources */ = {isa = PBXBuildFile; fileRef = 27591684295E227800325A84 /* starbucks_main.png */; };
+		2759168A295E23F700325A84 /* sc.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 27591689295E23F700325A84 /* sc.jpeg */; };
+		2759168C295E252800325A84 /* IMG_1335.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2759168B295E252800325A84 /* IMG_1335.jpg */; };
+		2759168E295E29E100325A84 /* IMG_1336.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2759168D295E29E100325A84 /* IMG_1336.jpg */; };
+		2797950A295DEBF2004B048C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27979509295DEBF2004B048C /* AppDelegate.swift */; };
+		2797950C295DEBF2004B048C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2797950B295DEBF2004B048C /* SceneDelegate.swift */; };
+		2797950E295DEBF2004B048C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2797950D295DEBF2004B048C /* ViewController.swift */; };
+		27979511295DEBF2004B048C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2797950F295DEBF2004B048C /* Main.storyboard */; };
+		27979513295DEBF3004B048C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27979512295DEBF3004B048C /* Assets.xcassets */; };
+		27979516295DEBF3004B048C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27979514295DEBF3004B048C /* LaunchScreen.storyboard */; };
+		27979521295DEBF3004B048C /* assignment_week2_starbucksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27979520295DEBF3004B048C /* assignment_week2_starbucksTests.swift */; };
+		2797952B295DEBF3004B048C /* assignment_week2_starbucksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2797952A295DEBF3004B048C /* assignment_week2_starbucksUITests.swift */; };
+		2797952D295DEBF3004B048C /* assignment_week2_starbucksUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2797952C295DEBF3004B048C /* assignment_week2_starbucksUITestsLaunchTests.swift */; };
+		27F8E7D7295ECB10006EB029 /* set.png in Resources */ = {isa = PBXBuildFile; fileRef = 27F8E7D6295ECB10006EB029 /* set.png */; };
+		27F8E7DD295EDDAB006EB029 /* ViewController_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F8E7DC295EDDAB006EB029 /* ViewController_2.swift */; };
+		27F8E7DF295EE27D006EB029 /* IMG_1352 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 27F8E7DE295EE27D006EB029 /* IMG_1352 2.jpg */; };
+		27F8E7E1295EE284006EB029 /* IMG_1352.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 27F8E7E0295EE284006EB029 /* IMG_1352.jpg */; };
+		27F8E806295EF563006EB029 /* ViewController_3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F8E805295EF563006EB029 /* ViewController_3.swift */; };
+		27F8E808295EF7E0006EB029 /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F8E807295EF7E0006EB029 /* MyTableViewCell.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		2797951D295DEBF3004B048C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 279794FE295DEBF2004B048C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 27979505295DEBF2004B048C;
+			remoteInfo = assignment_week2_starbucks;
+		};
+		27979527295DEBF3004B048C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 279794FE295DEBF2004B048C /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 27979505295DEBF2004B048C;
+			remoteInfo = assignment_week2_starbucks;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		270D76F5295F2E570076833B /* o2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o2.jpg; sourceTree = "<group>"; };
+		270D76F6295F2E570076833B /* o13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o13.jpg; sourceTree = "<group>"; };
+		270D76F7295F2E570076833B /* o14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o14.jpg; sourceTree = "<group>"; };
+		270D76F8295F2E570076833B /* o3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o3.jpg; sourceTree = "<group>"; };
+		270D76F9295F2E570076833B /* o11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o11.jpg; sourceTree = "<group>"; };
+		270D76FA295F2E570076833B /* o12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o12.jpg; sourceTree = "<group>"; };
+		270D76FB295F2E570076833B /* o9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o9.jpg; sourceTree = "<group>"; };
+		270D76FC295F2E570076833B /* o10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o10.jpg; sourceTree = "<group>"; };
+		270D76FD295F2E570076833B /* o4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o4.jpg; sourceTree = "<group>"; };
+		270D76FE295F2E570076833B /* o5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o5.jpg; sourceTree = "<group>"; };
+		270D76FF295F2E570076833B /* o8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o8.jpg; sourceTree = "<group>"; };
+		270D7700295F2E570076833B /* o1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o1.jpg; sourceTree = "<group>"; };
+		270D7701295F2E570076833B /* o16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o16.jpg; sourceTree = "<group>"; };
+		270D7702295F2E570076833B /* o15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o15.jpg; sourceTree = "<group>"; };
+		270D7703295F2E570076833B /* o6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o6.jpg; sourceTree = "<group>"; };
+		270D7704295F2E570076833B /* o7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o7.jpg; sourceTree = "<group>"; };
+		270D7715295F3A850076833B /* IMG_1354.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1354.jpg; sourceTree = "<group>"; };
+		270D7717295F3BBC0076833B /* IMG_1353.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1353.jpg; sourceTree = "<group>"; };
+		270D7719295F3FC50076833B /* ViewController_first.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_first.swift; sourceTree = "<group>"; };
+		270D771B295F4C930076833B /* ViewControllerSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerSearch.swift; sourceTree = "<group>"; };
+		270D771D295F4F990076833B /* magnifyingglass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = magnifyingglass.png; sourceTree = "<group>"; };
+		270D771F295F61FE0076833B /* IMG_1358.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1358.jpg; sourceTree = "<group>"; };
+		270D7720295F61FE0076833B /* IMG_1359.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1359.jpg; sourceTree = "<group>"; };
+		270D7721295F61FF0076833B /* IMG_1357.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1357.jpg; sourceTree = "<group>"; };
+		270D7725295F677E0076833B /* IMG_1360 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IMG_1360 2.jpg"; sourceTree = "<group>"; };
+		270D7726295F677E0076833B /* IMG_1360.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1360.jpg; sourceTree = "<group>"; };
+		270D7729295F6BF00076833B /* ViewController_3_new.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_3_new.swift; sourceTree = "<group>"; };
+		270D772F295F74880076833B /* NewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTableViewCell.swift; sourceTree = "<group>"; };
+		270D7731295F7ED20076833B /* ViewControlllerDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControlllerDetail.swift; sourceTree = "<group>"; };
+		270D7733295F94C80076833B /* oo5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oo5.jpg; sourceTree = "<group>"; };
+		270D7734295F94C80076833B /* oo3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oo3.jpg; sourceTree = "<group>"; };
+		270D7735295F94C80076833B /* oo1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oo1.jpg; sourceTree = "<group>"; };
+		270D7736295F94C80076833B /* oo2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oo2.jpg; sourceTree = "<group>"; };
+		270D7737295F94C80076833B /* oo6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oo6.jpg; sourceTree = "<group>"; };
+		270D7738295F94C80076833B /* oo4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oo4.jpg; sourceTree = "<group>"; };
+		270D7739295F94C80076833B /* oo7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = oo7.jpg; sourceTree = "<group>"; };
+		27591684295E227800325A84 /* starbucks_main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = starbucks_main.png; sourceTree = "<group>"; };
+		27591689295E23F700325A84 /* sc.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sc.jpeg; sourceTree = "<group>"; };
+		2759168B295E252800325A84 /* IMG_1335.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1335.jpg; sourceTree = "<group>"; };
+		2759168D295E29E100325A84 /* IMG_1336.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1336.jpg; sourceTree = "<group>"; };
+		27979506295DEBF2004B048C /* assignment_week2_starbucks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = assignment_week2_starbucks.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		27979509295DEBF2004B048C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		2797950B295DEBF2004B048C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		2797950D295DEBF2004B048C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		27979510295DEBF2004B048C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		27979512295DEBF3004B048C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		27979515295DEBF3004B048C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		27979517295DEBF3004B048C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2797951C295DEBF3004B048C /* assignment_week2_starbucksTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = assignment_week2_starbucksTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		27979520295DEBF3004B048C /* assignment_week2_starbucksTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = assignment_week2_starbucksTests.swift; sourceTree = "<group>"; };
+		27979526295DEBF3004B048C /* assignment_week2_starbucksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = assignment_week2_starbucksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		2797952A295DEBF3004B048C /* assignment_week2_starbucksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = assignment_week2_starbucksUITests.swift; sourceTree = "<group>"; };
+		2797952C295DEBF3004B048C /* assignment_week2_starbucksUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = assignment_week2_starbucksUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		27F8E7D6295ECB10006EB029 /* set.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = set.png; sourceTree = "<group>"; };
+		27F8E7DC295EDDAB006EB029 /* ViewController_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_2.swift; sourceTree = "<group>"; };
+		27F8E7DE295EE27D006EB029 /* IMG_1352 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "IMG_1352 2.jpg"; sourceTree = "<group>"; };
+		27F8E7E0295EE284006EB029 /* IMG_1352.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_1352.jpg; sourceTree = "<group>"; };
+		27F8E805295EF563006EB029 /* ViewController_3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController_3.swift; sourceTree = "<group>"; };
+		27F8E807295EF7E0006EB029 /* MyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		27979503295DEBF2004B048C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		27979519295DEBF3004B048C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		27979523295DEBF3004B048C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		27591688295E22B400325A84 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				270D7735295F94C80076833B /* oo1.jpg */,
+				270D7736295F94C80076833B /* oo2.jpg */,
+				270D7734295F94C80076833B /* oo3.jpg */,
+				270D7738295F94C80076833B /* oo4.jpg */,
+				270D7733295F94C80076833B /* oo5.jpg */,
+				270D7737295F94C80076833B /* oo6.jpg */,
+				270D7739295F94C80076833B /* oo7.jpg */,
+				270D7725295F677E0076833B /* IMG_1360 2.jpg */,
+				270D7726295F677E0076833B /* IMG_1360.jpg */,
+				270D7721295F61FF0076833B /* IMG_1357.jpg */,
+				270D771F295F61FE0076833B /* IMG_1358.jpg */,
+				270D7720295F61FE0076833B /* IMG_1359.jpg */,
+				270D771D295F4F990076833B /* magnifyingglass.png */,
+				270D7717295F3BBC0076833B /* IMG_1353.jpg */,
+				270D7700295F2E570076833B /* o1.jpg */,
+				270D76F5295F2E570076833B /* o2.jpg */,
+				270D76F8295F2E570076833B /* o3.jpg */,
+				270D76FD295F2E570076833B /* o4.jpg */,
+				270D76FE295F2E570076833B /* o5.jpg */,
+				270D7703295F2E570076833B /* o6.jpg */,
+				270D7704295F2E570076833B /* o7.jpg */,
+				270D76FF295F2E570076833B /* o8.jpg */,
+				270D76FB295F2E570076833B /* o9.jpg */,
+				270D76FC295F2E570076833B /* o10.jpg */,
+				270D76F9295F2E570076833B /* o11.jpg */,
+				270D76FA295F2E570076833B /* o12.jpg */,
+				270D76F6295F2E570076833B /* o13.jpg */,
+				270D76F7295F2E570076833B /* o14.jpg */,
+				270D7702295F2E570076833B /* o15.jpg */,
+				270D7701295F2E570076833B /* o16.jpg */,
+				27F8E7E0295EE284006EB029 /* IMG_1352.jpg */,
+				27F8E7DE295EE27D006EB029 /* IMG_1352 2.jpg */,
+				27F8E7D6295ECB10006EB029 /* set.png */,
+				2759168D295E29E100325A84 /* IMG_1336.jpg */,
+				2759168B295E252800325A84 /* IMG_1335.jpg */,
+				27591689295E23F700325A84 /* sc.jpeg */,
+				27591684295E227800325A84 /* starbucks_main.png */,
+				270D7715295F3A850076833B /* IMG_1354.jpg */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
+		279794FD295DEBF2004B048C = {
+			isa = PBXGroup;
+			children = (
+				27979508295DEBF2004B048C /* assignment_week2_starbucks */,
+				2797951F295DEBF3004B048C /* assignment_week2_starbucksTests */,
+				27979529295DEBF3004B048C /* assignment_week2_starbucksUITests */,
+				27979507295DEBF2004B048C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		27979507295DEBF2004B048C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				27979506295DEBF2004B048C /* assignment_week2_starbucks.app */,
+				2797951C295DEBF3004B048C /* assignment_week2_starbucksTests.xctest */,
+				27979526295DEBF3004B048C /* assignment_week2_starbucksUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		27979508295DEBF2004B048C /* assignment_week2_starbucks */ = {
+			isa = PBXGroup;
+			children = (
+				27591688295E22B400325A84 /* image */,
+				27979509295DEBF2004B048C /* AppDelegate.swift */,
+				2797950B295DEBF2004B048C /* SceneDelegate.swift */,
+				2797950D295DEBF2004B048C /* ViewController.swift */,
+				2797950F295DEBF2004B048C /* Main.storyboard */,
+				27979512295DEBF3004B048C /* Assets.xcassets */,
+				27979514295DEBF3004B048C /* LaunchScreen.storyboard */,
+				27979517295DEBF3004B048C /* Info.plist */,
+				27F8E7DC295EDDAB006EB029 /* ViewController_2.swift */,
+				27F8E805295EF563006EB029 /* ViewController_3.swift */,
+				270D7729295F6BF00076833B /* ViewController_3_new.swift */,
+				270D7731295F7ED20076833B /* ViewControlllerDetail.swift */,
+				27F8E807295EF7E0006EB029 /* MyTableViewCell.swift */,
+				270D7719295F3FC50076833B /* ViewController_first.swift */,
+				270D772F295F74880076833B /* NewTableViewCell.swift */,
+				270D771B295F4C930076833B /* ViewControllerSearch.swift */,
+			);
+			path = assignment_week2_starbucks;
+			sourceTree = "<group>";
+		};
+		2797951F295DEBF3004B048C /* assignment_week2_starbucksTests */ = {
+			isa = PBXGroup;
+			children = (
+				27979520295DEBF3004B048C /* assignment_week2_starbucksTests.swift */,
+			);
+			path = assignment_week2_starbucksTests;
+			sourceTree = "<group>";
+		};
+		27979529295DEBF3004B048C /* assignment_week2_starbucksUITests */ = {
+			isa = PBXGroup;
+			children = (
+				2797952A295DEBF3004B048C /* assignment_week2_starbucksUITests.swift */,
+				2797952C295DEBF3004B048C /* assignment_week2_starbucksUITestsLaunchTests.swift */,
+			);
+			path = assignment_week2_starbucksUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		27979505295DEBF2004B048C /* assignment_week2_starbucks */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 27979530295DEBF3004B048C /* Build configuration list for PBXNativeTarget "assignment_week2_starbucks" */;
+			buildPhases = (
+				27979502295DEBF2004B048C /* Sources */,
+				27979503295DEBF2004B048C /* Frameworks */,
+				27979504295DEBF2004B048C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = assignment_week2_starbucks;
+			productName = assignment_week2_starbucks;
+			productReference = 27979506295DEBF2004B048C /* assignment_week2_starbucks.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2797951B295DEBF3004B048C /* assignment_week2_starbucksTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 27979533295DEBF3004B048C /* Build configuration list for PBXNativeTarget "assignment_week2_starbucksTests" */;
+			buildPhases = (
+				27979518295DEBF3004B048C /* Sources */,
+				27979519295DEBF3004B048C /* Frameworks */,
+				2797951A295DEBF3004B048C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2797951E295DEBF3004B048C /* PBXTargetDependency */,
+			);
+			name = assignment_week2_starbucksTests;
+			productName = assignment_week2_starbucksTests;
+			productReference = 2797951C295DEBF3004B048C /* assignment_week2_starbucksTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		27979525295DEBF3004B048C /* assignment_week2_starbucksUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 27979536295DEBF3004B048C /* Build configuration list for PBXNativeTarget "assignment_week2_starbucksUITests" */;
+			buildPhases = (
+				27979522295DEBF3004B048C /* Sources */,
+				27979523295DEBF3004B048C /* Frameworks */,
+				27979524295DEBF3004B048C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				27979528295DEBF3004B048C /* PBXTargetDependency */,
+			);
+			name = assignment_week2_starbucksUITests;
+			productName = assignment_week2_starbucksUITests;
+			productReference = 27979526295DEBF3004B048C /* assignment_week2_starbucksUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		279794FE295DEBF2004B048C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					27979505295DEBF2004B048C = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					2797951B295DEBF3004B048C = {
+						CreatedOnToolsVersion = 14.2;
+						TestTargetID = 27979505295DEBF2004B048C;
+					};
+					27979525295DEBF3004B048C = {
+						CreatedOnToolsVersion = 14.2;
+						TestTargetID = 27979505295DEBF2004B048C;
+					};
+				};
+			};
+			buildConfigurationList = 27979501295DEBF2004B048C /* Build configuration list for PBXProject "assignment_week2_starbucks" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 279794FD295DEBF2004B048C;
+			productRefGroup = 27979507295DEBF2004B048C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				27979505295DEBF2004B048C /* assignment_week2_starbucks */,
+				2797951B295DEBF3004B048C /* assignment_week2_starbucksTests */,
+				27979525295DEBF3004B048C /* assignment_week2_starbucksUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		27979504295DEBF2004B048C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				270D7713295F2E570076833B /* o6.jpg in Resources */,
+				270D7723295F61FF0076833B /* IMG_1359.jpg in Resources */,
+				270D770D295F2E570076833B /* o4.jpg in Resources */,
+				270D7714295F2E570076833B /* o7.jpg in Resources */,
+				270D770E295F2E570076833B /* o5.jpg in Resources */,
+				270D7708295F2E570076833B /* o3.jpg in Resources */,
+				27F8E7DF295EE27D006EB029 /* IMG_1352 2.jpg in Resources */,
+				270D7724295F61FF0076833B /* IMG_1357.jpg in Resources */,
+				270D773F295F94C80076833B /* oo4.jpg in Resources */,
+				270D773D295F94C80076833B /* oo2.jpg in Resources */,
+				270D773E295F94C80076833B /* oo6.jpg in Resources */,
+				270D770C295F2E570076833B /* o10.jpg in Resources */,
+				270D7728295F677E0076833B /* IMG_1360.jpg in Resources */,
+				270D770A295F2E570076833B /* o12.jpg in Resources */,
+				270D7710295F2E570076833B /* o1.jpg in Resources */,
+				27F8E7E1295EE284006EB029 /* IMG_1352.jpg in Resources */,
+				270D7707295F2E570076833B /* o14.jpg in Resources */,
+				27F8E7D7295ECB10006EB029 /* set.png in Resources */,
+				2759168A295E23F700325A84 /* sc.jpeg in Resources */,
+				270D7716295F3A850076833B /* IMG_1354.jpg in Resources */,
+				2759168C295E252800325A84 /* IMG_1335.jpg in Resources */,
+				270D7711295F2E570076833B /* o16.jpg in Resources */,
+				270D7722295F61FF0076833B /* IMG_1358.jpg in Resources */,
+				270D7709295F2E570076833B /* o11.jpg in Resources */,
+				270D770B295F2E570076833B /* o9.jpg in Resources */,
+				270D773C295F94C80076833B /* oo1.jpg in Resources */,
+				270D7706295F2E570076833B /* o13.jpg in Resources */,
+				270D7718295F3BBC0076833B /* IMG_1353.jpg in Resources */,
+				27979516295DEBF3004B048C /* LaunchScreen.storyboard in Resources */,
+				270D770F295F2E570076833B /* o8.jpg in Resources */,
+				27591685295E227800325A84 /* starbucks_main.png in Resources */,
+				270D773B295F94C80076833B /* oo3.jpg in Resources */,
+				270D773A295F94C80076833B /* oo5.jpg in Resources */,
+				270D771E295F4F990076833B /* magnifyingglass.png in Resources */,
+				27979513295DEBF3004B048C /* Assets.xcassets in Resources */,
+				270D7712295F2E570076833B /* o15.jpg in Resources */,
+				2759168E295E29E100325A84 /* IMG_1336.jpg in Resources */,
+				270D7727295F677E0076833B /* IMG_1360 2.jpg in Resources */,
+				270D7740295F94C80076833B /* oo7.jpg in Resources */,
+				270D7705295F2E570076833B /* o2.jpg in Resources */,
+				27979511295DEBF2004B048C /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2797951A295DEBF3004B048C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		27979524295DEBF3004B048C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		27979502295DEBF2004B048C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2797950E295DEBF2004B048C /* ViewController.swift in Sources */,
+				27F8E7DD295EDDAB006EB029 /* ViewController_2.swift in Sources */,
+				270D771C295F4C930076833B /* ViewControllerSearch.swift in Sources */,
+				2797950A295DEBF2004B048C /* AppDelegate.swift in Sources */,
+				270D772A295F6BF00076833B /* ViewController_3_new.swift in Sources */,
+				270D771A295F3FC50076833B /* ViewController_first.swift in Sources */,
+				270D7730295F74880076833B /* NewTableViewCell.swift in Sources */,
+				27F8E806295EF563006EB029 /* ViewController_3.swift in Sources */,
+				2797950C295DEBF2004B048C /* SceneDelegate.swift in Sources */,
+				27F8E808295EF7E0006EB029 /* MyTableViewCell.swift in Sources */,
+				270D7732295F7ED20076833B /* ViewControlllerDetail.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		27979518295DEBF3004B048C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				27979521295DEBF3004B048C /* assignment_week2_starbucksTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		27979522295DEBF3004B048C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2797952B295DEBF3004B048C /* assignment_week2_starbucksUITests.swift in Sources */,
+				2797952D295DEBF3004B048C /* assignment_week2_starbucksUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		2797951E295DEBF3004B048C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 27979505295DEBF2004B048C /* assignment_week2_starbucks */;
+			targetProxy = 2797951D295DEBF3004B048C /* PBXContainerItemProxy */;
+		};
+		27979528295DEBF3004B048C /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 27979505295DEBF2004B048C /* assignment_week2_starbucks */;
+			targetProxy = 27979527295DEBF3004B048C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		2797950F295DEBF2004B048C /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				27979510295DEBF2004B048C /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		27979514295DEBF3004B048C /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				27979515295DEBF3004B048C /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2797952E295DEBF3004B048C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		2797952F295DEBF3004B048C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		27979531295DEBF3004B048C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7G9H9876US;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = assignment_week2_starbucks/Info.plist;
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "사용자 맞춤 서비스 제공을 위해 권한을 허용해주세요.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sina.assignment-week2-starbucks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		27979532295DEBF3004B048C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7G9H9876US;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = assignment_week2_starbucks/Info.plist;
+				INFOPLIST_KEY_NSUserTrackingUsageDescription = "사용자 맞춤 서비스 제공을 위해 권한을 허용해주세요.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sina.assignment-week2-starbucks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		27979534295DEBF3004B048C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7G9H9876US;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sina.assignment-week2-starbucksTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/assignment_week2_starbucks.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/assignment_week2_starbucks";
+			};
+			name = Debug;
+		};
+		27979535295DEBF3004B048C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7G9H9876US;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sina.assignment-week2-starbucksTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/assignment_week2_starbucks.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/assignment_week2_starbucks";
+			};
+			name = Release;
+		};
+		27979537295DEBF3004B048C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7G9H9876US;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sina.assignment-week2-starbucksUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = assignment_week2_starbucks;
+			};
+			name = Debug;
+		};
+		27979538295DEBF3004B048C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7G9H9876US;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.sina.assignment-week2-starbucksUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = assignment_week2_starbucks;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		27979501295DEBF2004B048C /* Build configuration list for PBXProject "assignment_week2_starbucks" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2797952E295DEBF3004B048C /* Debug */,
+				2797952F295DEBF3004B048C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		27979530295DEBF3004B048C /* Build configuration list for PBXNativeTarget "assignment_week2_starbucks" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				27979531295DEBF3004B048C /* Debug */,
+				27979532295DEBF3004B048C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		27979533295DEBF3004B048C /* Build configuration list for PBXNativeTarget "assignment_week2_starbucksTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				27979534295DEBF3004B048C /* Debug */,
+				27979535295DEBF3004B048C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		27979536295DEBF3004B048C /* Build configuration list for PBXNativeTarget "assignment_week2_starbucksUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				27979537295DEBF3004B048C /* Debug */,
+				27979538295DEBF3004B048C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 279794FE295DEBF2004B048C /* Project object */;
+}
